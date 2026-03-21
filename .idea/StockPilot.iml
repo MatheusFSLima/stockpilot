@@ -6,5 +6,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.14 (StockPilot)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="DesafiosCurso" />
+    <orderEntry type="module" module-name="PrimeiroProjeto" />
+    <orderEntry type="module" module-name="DesafiosGPT" />
   </component>
 </module>

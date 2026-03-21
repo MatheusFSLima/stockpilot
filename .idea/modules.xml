@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DesafiosCurso/.idea/DesafiosCurso.iml" filepath="$PROJECT_DIR$/../DesafiosCurso/.idea/DesafiosCurso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DesafiosGPT/.idea/DesafiosGPT.iml" filepath="$PROJECT_DIR$/../DesafiosGPT/.idea/DesafiosGPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PrimeiroProjeto/.idea/PrimeiroProjeto.iml" filepath="$PROJECT_DIR$/../PrimeiroProjeto/.idea/PrimeiroProjeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/StockPilot.iml" filepath="$PROJECT_DIR$/.idea/StockPilot.iml" />
     </modules>
   </component>
